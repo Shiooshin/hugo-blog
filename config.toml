@@ -35,7 +35,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Who I am and why I want to share my experience"
+  homeSubtitle = """Доброго вечора, ми з України! Мене звати Мар'ян і я займаюсь Інженерією Даних. Світ Інженерії Даних швидко міняється: з'являються нові технології,
+   підходи та способи будувати проекти пов'язані з даними. В цьому блозі я буду ділитись корисними та актуальними речами світу Інженерії Даних"""
+  homeSubtitleTwo = """Good evening, we're from Ukraine! My name is Marian and I work as a Data Engineer. The world of Data Engineering is rapidly changing: 
+  new approaches emerging, new architecture arising, new services and products are created. 
+  In this blog I will try to write some useful tips and share thoughts regarding the world of Data Engineering"""
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
